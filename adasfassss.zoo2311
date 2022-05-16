@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611tr.exe" -OutFile "c:\users\public\a.exe";c:\users\public\a.exe
